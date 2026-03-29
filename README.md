@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">This project explores a dataset of 10,000 cafe transactions from 2023 to learn how customers buy, how well sales perform, and how they prefer to pay. This information helps businesses make smart decisions and improve their sales.</p>
+<p align="justify">This project explores a dataset of 10,000 cafe transactions from 2023 to learn how customers buy, how well sales perform, and how they prefer to pay. This information helps businesses make smart decisions and improve their sales.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">• To analyze historical sales data and identify overall sales trends and patterns.<br><br>• To determine top-performing and underperforming products based on revenue and sales volume.<br><br>• To identify peak sales periods by month and week.<br><br>• To provide data-driven recommendations to reduce waste and improve profitability.</p>
+<p align="justify">• To analyze historical sales data and identify overall sales trends and patterns.<br><br>• To determine top-performing and underperforming products based on revenue and sales volume.<br><br>• To identify peak sales periods by month and week.<br><br>• To provide data-driven recommendations to reduce waste and improve profitability.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Data preprocessing in this project is divided into five phases: data transformation and data replacement; checking, replacing, and dropping missing values; correcting inconsistent data; checking for duplicate data; and feature engineering.<br><br><b>Data Preprocessing Detail Code: </b>https://drive.google.com/file/d/1epTGi0ppRyD4TF3Lj2ykUSJEJXIfmfrF/view?usp=sharing</p>
+<p align="justify">Data preprocessing in this project is divided into five phases: data transformation and data replacement; checking, replacing, and dropping missing values; correcting inconsistent data; checking for duplicate data; and feature engineering.<br><br><b>Data Preprocessing Detail Code: </b>https://drive.google.com/file/d/1epTGi0ppRyD4TF3Lj2ykUSJEJXIfmfrF/view?usp=sharing</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">MySQL is used to generate insights and answer business questions.<br><br><b>Details:</b> https://drive.google.com/file/d/1mHfeUBApBIB7qwBE7QBKW-BItSv3a8RJ/view?usp=sharing <br><br><b>1. Total Revenue, Total items sold, and Total Transactions</b> - total revenue was $85316.50, the total number of items sold was 28817, and 9540 customer transactions were made in 2023. <br><br><b>2. Revenue by Month</b> - October had the highest revenue at this cafe in 2023 ($7403), followed by June ($7360) and January ($7344).<br><br>3. Top 3 products by revenue  - Juice, Salad, and Sandwich are the three items that result in the highest revenue. Juice is the highest at $18,357, followed by Salad at $16,605, and Sandwich at $13,116.<br><br>4. Top 3 Products by Quantity - Juice at the cafe in 2023 had the highest sales, with 6119 sold, followed by coffee at 3422 and salad at 3321.<br><br>5. Payment Method Comparison - Majority of customers used the digital wallet to make payments. A total of 5212 payments are made using a digital wallet. Then, 2170 payments were made by credit card, while 2158 were made in cash.<br><br>6. Revenue by Payment Method - Payment via digital wallet recorded the highest revenue at $46191.5, while cash payment recorded $19565.5, and credit card recorded the lowest revenue at $19559.5.<br><br>7. Location Comparison - The customer who takes away the item (6668) is greater than in-store (2872). <br><br>8. Revenue by Location - takeaway customers accounted for $59,193.50 of the cafe’s revenue, while in-store customers accounted for $26,123.<br><br>9. Revenue by Weekday - Friday is a peak day for sales with $12492, followed by Thursday at $12412.5 and Sunday at $12340.5. Wednesday's revenue scored the lowest number at $11688.5.</p>
+<p align="justify">MySQL is used to generate insights and answer business questions.<br><br><b>Details:</b> https://drive.google.com/file/d/1mHfeUBApBIB7qwBE7QBKW-BItSv3a8RJ/view?usp=sharing <br><br><b>1. Total Revenue, Total items sold, and Total Transactions</b> - total revenue was $85316.50, the total number of items sold was 28817, and 9540 customer transactions were made in 2023. <br><br><b>2. Revenue by Month</b> - October had the highest revenue at this cafe in 2023 ($7403), followed by June ($7360) and January ($7344).<br><br><b>3. Top 3 products by revenue</b>  - Juice, Salad, and Sandwich are the three items that result in the highest revenue. Juice is the highest at $18,357, followed by Salad at $16,605, and Sandwich at $13,116.<br><br><b>4. Top 3 Products by Quantity</b> - Juice at the cafe in 2023 had the highest sales, with 6119 sold, followed by coffee at 3422 and salad at 3321.<br><br><b>5. Payment Method Comparison</b> - Majority of customers used the digital wallet to make payments. A total of 5212 payments are made using a digital wallet. Then, 2170 payments were made by credit card, while 2158 were made in cash.<br><br><b>6. Revenue by Payment Method</b> - Payment via digital wallet recorded the highest revenue at $46191.5, while cash payment recorded $19565.5, and credit card recorded the lowest revenue at $19559.5.<br><br><b>7. Location Comparison</b> - The customer who takes away the item (6668) is greater than in-store (2872). <br><br><b>8. Revenue by Location</b> - takeaway customers accounted for $59,193.50 of the cafe’s revenue, while in-store customers accounted for $26,123.<br><br><b>9. Revenue by Weekday</b> - Friday is a peak day for sales with $12492, followed by Thursday at $12412.5 and Sunday at $12340.5. Wednesday's revenue scored the lowest number at $11688.5.</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">The results generated by MySQL will be visualized in the Power BI report, where users can view the pattern and other details. This report is divided into three parts: the main page, the customer behaviour page, and the sales details page.</p>
+<p align="justify">The results generated by MySQL will be visualized in the Power BI report, where users can view the pattern and other details. This report is divided into three parts: the main page, the customer behaviour page, and the sales details page.</p>
 
 ###
 
@@ -50,6 +50,6 @@
 
 ###
 
-<p align="left">1. Festival Promotions -  February had the lowest revenue in 2023. The cafe owner can organise an activity to celebrate the February festival, such as Valentine's Day. The cafe owner can focus sales on coffee, cookies, tea, and cake to increase revenue and item sales.<br><br>2. Bundle sets - The highest-selling and revenue-generating products, such as juice and salad, can be bundled under a special set name (e.g., Healthy daily set) at a discounted price to increase average transaction value.<br><br>3. Optimize payment method discount - Cafe owners can collaborate with a digital wallet provider, such as Touch n Go or GrabPay, to offer a discount (5% - 10%) to improve transaction speed.<br><br>4. Improve the revenue of low-selling items - For example, a cafe owner can buy coffee or tea and get 20% off a cookie to boost cookie visibility and sales.<br><br>5. . Weekly promotion - Cafe owners can choose to have the promotion every Wednesday, named “Happy Wednesday or Wed Cafe Day”, with 10% off smoothies and sandwiches to attract customers during slower periods.</p>
+<p align="justify"><b>1. Festival Promotions</b> -  February had the lowest revenue in 2023. The cafe owner can organise an activity to celebrate the February festival, such as Valentine's Day. The cafe owner can focus sales on coffee, cookies, tea, and cake to increase revenue and item sales.<br><br><b>2. Bundle sets</b> - The highest-selling and revenue-generating products, such as juice and salad, can be bundled under a special set name (e.g., Healthy daily set) at a discounted price to increase average transaction value.<br><br><b>3. Optimize payment method discount</b> - Cafe owners can collaborate with a digital wallet provider, such as Touch n Go or GrabPay, to offer a discount (5% - 10%) to improve transaction speed.<br><br><b>4. Improve the revenue of low-selling items</b> - For example, a cafe owner can buy coffee or tea and get 20% off a cookie to boost cookie visibility and sales.<br><br><b>5. Weekly promotion</b> - Cafe owners can choose to have the promotion every Wednesday, named “Happy Wednesday or Wed Cafe Day”, with 10% off smoothies and sandwiches to attract customers during slower periods.</p>
 
 ###
