@@ -20,6 +20,45 @@
 
 <h2 align="left">Data Description</h2>
 
+<table align="center">
+  <tr>
+    <th>Attibute Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Transaction ID</td>
+    <td>Unique identifier of transaction records</td>
+  </tr>
+  <tr>
+    <td>Item</td>
+    <td>Name of item purchased</td>
+  </tr>
+  <tr>
+    <td>Quantity</td>
+    <td>Number of units purchased</td>
+  </tr>
+  <tr>
+    <td>Price Per Unit</td>
+    <td>The price of a single unit of the item</td>
+  </tr>
+  <tr>
+    <td>Total Spent</td>
+    <td>Total amount spent on the transaction</td>
+  </tr>
+  <tr>
+    <td>Payment Method</td>
+    <td>Method of payment used (Digital Wallet, Cash, or Credit Card)</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Where the order was consumed</td>
+  </tr>
+  <tr>
+    <td>Transaction Date</td>
+    <td>The date of the transaction</td>
+  </tr>
+</table>
+
 ###
 
 <h2 align="left">Data Preparation/ Cleaning</h2>
